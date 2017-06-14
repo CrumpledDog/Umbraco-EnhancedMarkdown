@@ -1,6 +1,12 @@
-﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+﻿@using Our.Umbraco.EnhancedMarkdown
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
 @{
     Layout = "Master.cshtml";
 }
 
-@CurrentPage.GetGridHtml("content", "fanoe")
+@{
+    var rawMarkdownEditor = Model.Content.GetPropertyValue<string>("enhancedMarkdown");
+
+    var htmlDown = MarkdownHelpers.ExtractHtml(rawMarkdownEditor);
+}
+@htmlDown

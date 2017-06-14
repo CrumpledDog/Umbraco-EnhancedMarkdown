@@ -1,0 +1,14 @@
+<div class="markdown-editor">
+    <h4>Text Area</h4>
+    <button prevent-default class="btn toggle" ng-click="toggle()">{{ toggleStatus }}</button>
+
+    <div ng-show="!preview" id="wmd-button-bar-{{md.editor.alias}}-{{md.uniqueId}}"></div>
+    
+    <textarea ng-show="!preview" ng-model="md.editor.content" class="wmd-input" id="wmd-input-{{md.editor.alias}}-{{md.uniqueId}}"></textarea>
+    
+    <!-- Preview -->
+    <div  ng-bind-html="md.preview" ng-show="preview" id="wmd-preview-{{md.editor.alias}}-{{md.uniqueId}}" class="wmd-panel wmd-preview clearfix">
+        
+    </div>
+
+</div>

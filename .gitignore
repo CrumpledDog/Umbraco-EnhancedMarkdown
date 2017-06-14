@@ -181,7 +181,7 @@ src/TestSite76/App_Data/NuGetBackup/*
 # =========================
 # ImageProcessor DiskCache 
 # =========================
-src/src/TestSite76/App_Data/cache/*
+src/TestSite76/App_Data/cache/*
 
 artifacts/**
 

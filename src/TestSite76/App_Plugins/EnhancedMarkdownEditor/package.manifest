@@ -1,0 +1,9 @@
+{
+  "javascript": [
+    "/App_Plugins/EnhancedMarkdownEditor/Directive/Controllers/markdown.directive.js",
+    "/App_Plugins/EnhancedMarkdownEditor/Dialogs/Controllers/linkpickerwithanchor.controller.js",
+    "/App_Plugins/EnhancedMarkdownEditor/Lib/jquery.autosize.min.js"
+  ],
+  "css": [
+  ]
+}
