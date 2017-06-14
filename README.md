@@ -15,7 +15,7 @@ Unlike the native Umbraco editor the Enhanced Markdown editor includes support f
 
 # Issues/things to do
 
-- Handle UDIs?
+- Handle UDIs? This may actually make things easier than they were!
 - Implement Property Value Converter to that output is IHtmlString
 - Handle MediaIds so that they are resolved at render time
 - Support GFM
