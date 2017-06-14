@@ -29,6 +29,8 @@ By default the test site is configured to use full IIS (due to IIS Express SQL C
 
 Visual Studio 2017 is required for compiling the source code
 
+Currently the Angular UI is located within the TestSite76 project at `/App_Plugins/EnhancedMarkdownEditor/`
+
 # Credits and references
 
 This project may include code that originated in the UmbracoCms project, Umbraco Ditto project & other OSS MIT licensed projects
