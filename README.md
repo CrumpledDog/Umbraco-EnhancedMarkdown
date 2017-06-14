@@ -11,6 +11,8 @@ If you would like to collaborate please get in contact we need contributions!
 
 Unlike the native Umbraco editor the Enhanced Markdown editor includes support for local link parsing so that URL changes are rendered correctly and also for title attributes to be rendered on the anchor tags
 
+![](https://raw.githubusercontent.com/CrumpledDog/Umbraco-EnhancedMarkdown/develop/docs/images/example.png)
+
 # Issues/things to do
 
 - Handle UDIs?
