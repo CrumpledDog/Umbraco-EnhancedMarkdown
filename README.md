@@ -9,7 +9,7 @@ If you would like to collaborate please get in contact we need contributions!
 
 # Why is this a thing, Umbraco has a Markdown editor already?
 
-Unlike the native Umbraco editor the Enhanced Markdown editor includes support for local link parsing so that URL changes are rendered correctly and also for title attributes to be rendered on the anchor tags
+Unlike the native Umbraco editor the Enhanced Markdown editor includes support for local link parsing so that URL changes are rendered correctly, support for anchor targets and also support for title attributes to be rendered on the anchor tags
 
 ![](https://raw.githubusercontent.com/CrumpledDog/Umbraco-EnhancedMarkdown/develop/docs/images/example.png)
 
