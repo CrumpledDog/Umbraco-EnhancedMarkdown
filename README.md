@@ -33,4 +33,4 @@ Currently the Angular UI is located within the TestSite76 project at `/App_Plugi
 
 # Credits and references
 
-This project may include code that originated in the UmbracoCms project, Umbraco Ditto project & other OSS MIT licensed projects
+This project may include code that originated in the [UmbracoCms](https://github.com/umbraco/Umbraco-CMS) project, [Umbraco Ditto](https://github.com/leekelleher/umbraco-ditto) project & other OSS MIT licensed projects
